@@ -1,11 +1,10 @@
-package com.mpaverini.budget.expenses;
+package com.mpaverini.budget.service;
 
 
 import org.springframework.stereotype.Service;
 
 @Service
 public class ExpensesService {
-
 
 
   public Object get() {

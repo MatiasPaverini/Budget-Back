@@ -1,4 +1,4 @@
-package com.mpaverini.budget.payments.owners;
+package com.mpaverini.budget.models.payments.owners;
 
 import java.util.List;
 import lombok.Data;
